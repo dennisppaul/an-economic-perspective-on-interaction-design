@@ -1,4 +1,4 @@
-# an economic perspective on interaction design
+# An Economic Perspective on Interaction Design
 
 or how to earn money as a designer. if you find anything missing or wrong in this list of models, please send additions or corrections to d.paul@hfk-bremen.de
 
