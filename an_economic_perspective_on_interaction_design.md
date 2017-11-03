@@ -8,13 +8,13 @@ one of the reasons for compiling this document is to question if the designer-cl
 
 ## as service ( dienstleistung )
 
-* working for clients ( e.g communicating client interests, product developement ) ( the classic model )
+* working for clients ( e.g communicating client interests, product developement, performing e.g music ) ( the classic model )
 * research financed by organisations ( see research )
 
 ## in entrepreneurship
 
 * development and selling of self-initiated designs / projects ( e.g products, services, websites, books )
-* product and project developement via crowd funding ( e.g kickstarter, indiegogo ) 
+* product and project developement via crowd funding ( e.g kickstarter, indiegogo )
 * selling ideas as a thinktank
 * alternative models ( very rare e.g youtube-star )
 
@@ -31,7 +31,7 @@ one of the reasons for compiling this document is to question if the designer-cl
 
 ## as research
 
-* research projects subjects
+* research projects subjects (?)
 * as part of a research consortium ( e.g EU project )
 * applied and industry-related research ( see service e.g commissioned research, product developement )
 * grants for individual research ( e.g study, disseration, or post doc grants )
@@ -39,7 +39,7 @@ one of the reasons for compiling this document is to question if the designer-cl
 
 ## in education
 
-* teaching at public and private institutions ( e.g workshop leader, lecturer, professor )
+* teaching at public or private institutions ( e.g workshop leader, lecturer, professor )
 * workshops at public and private institutions
 * further education ( weiterbildung ) for designers and non-designers
 * paid lectures
