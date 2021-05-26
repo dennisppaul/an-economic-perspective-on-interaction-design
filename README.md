@@ -15,7 +15,7 @@ one of the reasons for compiling this document is to question if the designer-cl
 
 ## in entrepreneurship
 
-- development and selling of self-initiated designs / projects ( e.g products, services, websites, books )
+- development and selling of self-initiated designs / projects ( e.g apps, products, services, websites, books )
 - product and project developement via crowd funding ( e.g kickstarter, indiegogo )
 - selling ideas as a thinktank
 - alternative models ( very rare e.g youtube-star )
