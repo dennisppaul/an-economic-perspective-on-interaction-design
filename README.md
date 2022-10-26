@@ -49,8 +49,10 @@ one of the reasons for compiling this document is to question if the designer-cl
 - further education ( weiterbildung ) for designers and non-designers
 - paid lectures
 
-this document is released into the public domain.
-
 ## similar or related endeavors
 
 - Kyle McDonald + Rafael Lozano-Hemmer demystifing their studio’s funding structure on [twitter](https://twitter.com/errafael/status/1475724455359963144) + archieved at [holo magazine](https://www.holo.mg/stream/kyle-mcdonald-rafael-lozano-hemmer-studio-funding-structure/)
+
+---
+
+this document is released into the public domain.
