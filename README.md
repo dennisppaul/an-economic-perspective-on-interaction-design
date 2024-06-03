@@ -12,7 +12,7 @@ PS one of the reasons for compiling this document is to question the dominant de
 
 ## as service ( dienstleistung )
 
-- working for clients ( e.g communicating client interests, product developement, performing e.g music ) ( the classic model )
+- working for clients ( the classic model ) ( e.g communicating client interests, product developement, performing )
 - research financed by organisations ( see research )
 
 ## in entrepreneurship
