@@ -52,7 +52,7 @@ PS one of the reasons for compiling this document is to question the dominant de
 
 ## similar or related endeavors
 
-- Kyle McDonald + Rafael Lozano-Hemmer demystifing their studio’s funding structure on [twitter](https://twitter.com/errafael/status/1475724455359963144) + archieved at [holo magazine](https://www.holo.mg/stream/kyle-mcdonald-rafael-lozano-hemmer-studio-funding-structure/)
+- Kyle McDonald + Rafael Lozano-Hemmer demystifing their studio’s funding structure on [twitter](https://twitter.com/errafael/status/1475724455359963144) ( link dead 2024-06-01 ) + archieved at [holo magazine](https://www.holo.mg/stream/kyle-mcdonald-rafael-lozano-hemmer-studio-funding-structure/)
 
 ---
 
