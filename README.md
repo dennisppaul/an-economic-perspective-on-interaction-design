@@ -1,4 +1,4 @@
-# An Economic Perspective on Interaction Design
+# An Economic Perspective on Interaction Design ( and New Media Art )
 
 or how to earn money as a designer. this document aims to present economic models for earning money as a designer. if you find anything missing or wrong in this list of models, please send additions or corrections to d.paul@hfk-bremen.de
 
@@ -17,9 +17,10 @@ one of the reasons for compiling this document is to question if the designer-cl
 
 ## in entrepreneurship
 
-- development and selling of self-initiated designs / projects ( e.g apps, products, services, websites, books )
+- developing and selling self-initiated designs / projects ( e.g apps, products, services, websites, books )
+- *make* and selling one-offs or editions on platforms ( e.g etsy or Digital Media Studio Industries )
 - product and project developement via crowd funding ( e.g kickstarter, indiegogo )
-- selling ideas as a thinktank
+- selling ideas as a thinktank ( e.g design fictions like [Julian Bleeker](https://julianbleecker.com) )
 - alternative models ( very rare e.g youtube-star )
 
 ## as cultural production
