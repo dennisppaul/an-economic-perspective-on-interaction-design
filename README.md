@@ -13,6 +13,7 @@ PS one of the reasons for compiling this document is to question the dominant de
 ## as service ( dienstleistung )
 
 - working for clients ( the classic model ) ( e.g communicating client interests, product developement, performing )
+- working for studios ( a good way to get started, learn the trade and grow the network )
 - research financed by organisations ( see research )
 
 ## in entrepreneurship
